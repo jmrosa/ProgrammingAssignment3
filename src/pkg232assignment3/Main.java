@@ -48,8 +48,7 @@ public class Main {
                         i++;
                         System.out.println();
                         System.out.println(c.vertex);
-        }
-                
+        }                
             bufferedReader.close();
             }    
             catch(FileNotFoundException FNF){
